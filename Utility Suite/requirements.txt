@@ -1,0 +1,5 @@
+requests
+psutil
+plyer
+python-dotenv
+pynput
