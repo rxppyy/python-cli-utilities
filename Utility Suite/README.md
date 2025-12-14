@@ -1,6 +1,6 @@
 # Python Utility CLI Suite
 
-A command-line Python application that bundles multiple small utilities into a single interactive menu program
+A command line python application that bundles multiple small utilities into a single interactive menu program
 
 ## Features
 - Notes system (create, read, clear notes)
@@ -28,4 +28,5 @@ A command-line Python application that bundles multiple small utilities into a s
    python main.py
 
 ## Notes
-This project was built while learning Python, experimenting with modular design, third party libraries, and creating command line tools
+This project was built while learning python, experimenting with modular design, third party libraries, and creating command line tools
+
