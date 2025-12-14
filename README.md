@@ -23,8 +23,9 @@ A command line python application that bundles multiple small utilities into a s
 1. Install Python 3.10+
 2. Install dependencies:
    pip install -r requirements.txt
-3. Create a `.env` file and add your OpenWeather API key
-4. Run:
+3. Create a `.env` file and add your OpenWeather API key from "https://openweathermap.org/"
+4. Inside the `.env` file, make sure it looks like: WEATHER_API_KEY=api_here
+5. Run:
    python main.py
 
 ## Notes
